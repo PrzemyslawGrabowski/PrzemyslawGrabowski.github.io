@@ -162,7 +162,7 @@
 	var card1 = new Card('Powtórzyć CCS.');
 	var card2 = new Card('Stworzyć tablice kanban');
 	var card3 = new Card('Nie oszaleć');
-	var card4 = new Card('Nie robić z siebie debila.')
+	var card4 = new Card('Daj propsa :)')
 
 	// Dodawanie kart do kolumny
 	todoColumn.addCard(card1);
